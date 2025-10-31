@@ -111,6 +111,25 @@ EXPOSE 80
 http://localhost:8080
 -----------------------------------------------------------------------------------------------------
 
+git init
+git config --global user.name '"
+git status
+git add .
+git commit -m ''
+git mv hello.txt hey.txt
+mkdir src
+git mv hello.txt src/
+git log
+git log --oneline
+git rest --soft head~1
+mixed hard
+git stash
+git stash list
+git stash pop
+
+reviewer ses collabotors add people 
+protection ses branches add classic protection rule 
+
 
 
 
